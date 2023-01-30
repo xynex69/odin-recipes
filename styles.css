@@ -1,0 +1,35 @@
+html {
+    background: #1b1b1b;
+    margin: 0px;
+    text-align: center;
+}
+
+body {
+    color: #ffebcd;
+    font-size: 32px;
+    width: 750px;
+    margin: 0 auto;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-size: 54px;
+    background-color: #696969;
+    color: #ffa31a
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 150px;
+    background-color: #696969;
+}
+
+img { 
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+
+li {
+    margin: 30px;
+    background-color: #696969;
+}
+
